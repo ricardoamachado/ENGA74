@@ -10,3 +10,7 @@ wheels/
 .venv
 Atividade1/atividade1.html
 Atividade2/atividade2.html
+
+#Output files
+*.pdf
+*.html
